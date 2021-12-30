@@ -1,4 +1,4 @@
-name: get_bootimg_from_payload.bin
+名称： get_bootimg_from_payload.bin
 
 on:
   watch:
